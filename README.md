@@ -11,9 +11,9 @@
     + g.Remove duplicates from an array
     + h.Rotate an array by k times
 <br>
-+[Solution Anonymous Fuction](https://github.com/manoharsena/DAY-4/blob/main/script.js)
+[Solution Anonymous Fuction](https://github.com/manoharsena/DAY-4/blob/main/script.js)
 <br>
-+[Solution IIFE Fuction](https://github.com/manoharsena/DAY-4/blob/main/IIFEscript.js)
+[Solution IIFE Fuction](https://github.com/manoharsena/DAY-4/blob/main/IIFEscript.js)
 <br>
 <br>
 2. Do the below programs in arrow functions.
@@ -23,7 +23,7 @@
     + d.Return all the prime numbers in an array
     + e.Return all the palindromes in an array
 <br>
-+[Solution Arrow Fuction](https://github.com/manoharsena/DAY-4/blob/main/arrowscript.js)
+[Solution Arrow Fuction](https://github.com/manoharsena/DAY-4/blob/main/arrowscript.js)
 <br><br>
 
 ![Output Screenshot](<Output Screenshot.JPG>)
