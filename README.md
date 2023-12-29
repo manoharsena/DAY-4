@@ -18,6 +18,7 @@
 [Solution IIFE Fuction](https://github.com/manoharsena/DAY-4/blob/main/IIFEscript.js)
 <br>
 <br>
+
 2. Do the below programs in arrow functions.
     + a.Print odd numbers in an array
     + b.Convert all the strings to title caps in a string array
